@@ -1,0 +1,29 @@
+
+        body{
+            background-color: bisque;
+        }
+        h1,span{
+            text-align: center;
+            font-variant: small-caps;
+            font-family: Arial, sans-serif;
+            font-size: 40px;
+            color:palevioletred;
+            
+            background-color: antiquewhite;
+            line-height: 100%;
+        }
+        p{
+            font-family: Arial, sans-serif;
+            font-size: 20px;
+            
+            color: plum;
+        }
+        img{
+            width: 200000px;
+            
+        }
+        div{
+            display: inline-block;
+        }
+
+    
